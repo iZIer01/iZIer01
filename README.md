@@ -1,7 +1,7 @@
 <!-- Header with Typing Animation -->
 <h1 align="center">✨ Welcome to My World ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=750&lines=Hey👋+I'm+Joao+(iZIer01);A+Beginner+Developer+with+Big+Dreams+🚀;From+Namibia,+Building+One+Line+of+Code+at+a+Time;Solving+Student+%26+Community+Needs+Through+Code🌍;Always+Learning,+Always+Growing+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00C2FF&center=true&lines=Hey+I'm+Joao+(iZIer01);Beginner+Developer;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -105,9 +105,9 @@ I’m also learning how to **build and connect APIs**, so I can create systems t
 
 ## 🎮 Fun Game  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iZIer01/iZIer01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iZIer01/iZIer01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iZIer01/iZIer01/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaonkunku/joaonkunku/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaonkunku/joaonkunku/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/joaonkunku/joaonkunku/output/pacman-contribution-graph.svg">
 </picture>
 
 
