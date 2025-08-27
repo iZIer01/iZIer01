@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: iZIer01
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}   # <--- add this line
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}   # your personal access token
 
       - name: Commit SVG to output branch
         run: |
@@ -24,4 +24,4 @@ jobs:
           git config --global user.email "actions@github.com"
           git add -A
           git commit -m "Update PacMan contribution graph" || echo "No changes to commit"
-          git push origin HEAD:output
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/iZIer01/iZIer01.git HEAD:output
