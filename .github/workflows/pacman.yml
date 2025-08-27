@@ -15,6 +15,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: iZIer01
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}   # <--- add this line
 
       - name: Commit SVG to output branch
         run: |
