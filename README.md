@@ -97,9 +97,6 @@ I’m also learning how to **build and connect APIs**, so I can create systems t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iZIer01&theme=tokyonight" height="160"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iZIer01&theme=dracula&margin-w=8&margin-h=8" />
-</div>
 
 ---
 
