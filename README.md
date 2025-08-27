@@ -98,15 +98,6 @@ I’m also learning how to **build and connect APIs**, so I can create systems t
 </div>
 
 
----
-
-## 🎮 Fun Game  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iZIer01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iZIer01/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/iZIer01/output/pacman-contribution-graph.svg">
-</picture>
-
 
 ---
 
