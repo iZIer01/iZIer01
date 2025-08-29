@@ -101,6 +101,17 @@ Algorithms & CS basics
 
 ---
 
+
+## A Little Note 
+I know my GitHub sometimes looks like a collection of practice runs and tutorials  that’s because I’m still improving my understanding of different languages and tools.  
+
+I try not to push the *super basic* stuff unless I have a reason to (like testing or experimenting). But every repo here, no matter how small, is a step forward in my journey.  
+
+So… please enjoy the little works I do. Who knows — today’s “tiny project” might be tomorrow’s big idea. 
+
+
+---
+
 ## Connect With Me  
 <div align="center">
   <a href="mailto:joaonkunku01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25"/></a>
